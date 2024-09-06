@@ -15,3 +15,9 @@ Key Responsibilities:
 
 Technologies Used:
 HTML, CSS, JavaScript
+
+
+
+https://github.com/user-attachments/assets/ace3c1f7-ff04-4ef5-a643-a53e6067c5e9
+
+
